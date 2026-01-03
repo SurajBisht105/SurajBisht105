@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **LLM-powered applications** with RAG & AI Agents
-- 🌱 Exploring advanced **AI/ML technologies** and cloud architectures
+- 🌱 Exploring **AI/ML technologies** and cloud architectures
 - 💡 Passionate about building intelligent, scalable full-stack solutions
 - 🎯 Goal: Bridging the gap between AI research and production applications
 
