@@ -82,12 +82,20 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajBisht105&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajBisht105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" height="180"/>
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SurajBisht105&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800" alt="GitHub Stats" height="180"/>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SurajBisht105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=1800" alt="Top Languages" height="180"/>
+
 </div>
 
+<br>
+
+<!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajBisht105&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=SurajBisht105&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="70%"/>
 </div>
 
 ---
