@@ -44,11 +44,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- About Me Section with Better Formatting -->
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-```yaml
+````yaml
 name: Suraj Bisht
 title: Full Stack AI Engineer
 location: India 🇮🇳
@@ -62,8 +63,9 @@ currently_learning:
   - Advanced Prompt Engineering
   - Multi-Agent Orchestration
   - Vector Database Optimization
-  
+
 open_to: Collaboration on AI/ML Projects
+```
 <br>
 🔭 Building LLM-powered applications with RAG & AI Agents
 🌱 Exploring Multi-Agent Systems and Advanced RAG Architectures
@@ -83,3 +85,4 @@ open_to: Collaboration on AI/ML Projects
 <p align="center"> <a href="https://github.com/SurajBisht105/project1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajBisht105&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </a> <a href="https://github.com/SurajBisht105/project2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajBisht105&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </a> </p><!-- Animated Divider --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><!-- Connect Section -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 <p align="center"> <i>I'm always excited to collaborate on innovative AI projects and discuss the latest in LLM technology!</i> </p><p align="center"> <a href="https://www.linkedin.com/in/suraj-bisht-644208273/"> <img src="https://img.shields.io/badge/Let's_Connect!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp; <a href="https://calendly.com/your-calendly"> <img src="https://img.shields.io/badge/Schedule_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendar"/> </a> </p><!-- Quote --><p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/> </p><!-- Footer --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/><p align="center"> <b>⭐ If you find my work interesting, consider giving it a star!</b> </p><p align="center"> <img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" /> </p> ```
+````
