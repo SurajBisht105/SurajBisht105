@@ -49,7 +49,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-````yaml
+```yaml
 name: Suraj Bisht
 title: Full Stack AI Engineer
 location: India 🇮🇳
