@@ -56,12 +56,11 @@ location: India 🇮🇳
 focus:
   - LLM-Powered Applications
   - Retrieval-Augmented Generation (RAG)
-  - Autonomous AI Agents
   - Production ML Systems
 
 currently_learning:
   - Advanced Prompt Engineering
-  - Multi-Agent Orchestration
+  - Autonomous AI Agents
   - Vector Database Optimization
 
 open_to: Collaboration on AI/ML Projects
