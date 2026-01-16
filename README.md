@@ -75,28 +75,51 @@ open_to: Collaboration on AI/ML Projects
 <table align="center"> <tr> <td valign="top" width="33%"> <h3 align="center">🎨 Frontend</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&perline=4" /> </p> </td> <td valign="top" width="33%"> <h3 align="center">⚙️ Backend</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python&perline=4" /> </p> </td> <td valign="top" width="33%"> <h3 align="center">🗄️ Database</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase&perline=4" /> </p> </td> </tr> </table><table align="center"> <tr> <td valign="top" width="50%"> <h3 align="center">🤖 AI/ML & Data Science</h3> <p align="center"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> </p> </td> <td valign="top" width="50%"> <h3 align="center">🛠️ DevOps & Tools</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,vercel&perline=4" /> </p> </td> </tr> </table>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- GitHub Stats with Better Layout -->
-<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Analytics
-<p align="center"> <a href="https://github.com/SurajBisht105"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SurajBisht105&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&ring_color=764ba2"/> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SurajBisht105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea"/> </a> </p>
-<!-- Streak Stats with Custom Theme -->
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=SurajBisht105&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=764ba2" width="70%" alt="GitHub Streak"/> </p>
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SurajBisht105&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajBisht105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea"/>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SurajBisht105&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=764ba2" width="70%"/>
+</p>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- Trophies -->
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SurajBisht105&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/> </p>
+
+## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SurajBisht105&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+</p>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- Contribution Graph -->
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajBisht105&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/> </p>
-<!-- Snake Animation -->
-<!-- <p align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/> </p> -->
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajBisht105&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" width="95%"/>
+</p>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- Featured Projects Section -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
-<p align="center"> <a href="https://github.com/SurajBisht105/project1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajBisht105&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </a> <a href="https://github.com/SurajBisht105/project2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajBisht105&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </a> </p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+
+<!-- Replace with your ACTUAL repository names -->
+<p align="center">
+  <a href="https://github.com/SurajBisht105/YOUR-REAL-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajBisht105&repo=YOUR-REAL-REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  </a>
+  <a href="https://github.com/SurajBisht105/YOUR-REAL-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajBisht105&repo=YOUR-REAL-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  </a>
+</p>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!-- Connect Section -->
