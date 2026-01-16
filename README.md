@@ -65,7 +65,7 @@ open_to: Collaboration on AI/ML Projects
 🔭 Building LLM-powered applications with RAG & AI Agents
 🌱 Exploring Multi-Agent Systems and Advanced RAG Architectures
 💡 Passionate about bridging AI research and production
-🎯 2024 Goal: Contribute to open-source AI projects
+🎯 2026 Goal: Contribute to open-source AI projects
 ⚡ Fun fact: I debug with coffee ☕
 <br clear="right"/>
 
