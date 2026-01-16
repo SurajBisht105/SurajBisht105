@@ -60,7 +60,7 @@ currently_learning:
   - Vector Database Optimization
 
 open_to: Collaboration on AI/ML Projects
-
+```
 <br>
 🔭 Building LLM-powered applications with RAG & AI Agents
 🌱 Exploring Multi-Agent Systems and Advanced RAG Architectures
@@ -68,7 +68,7 @@ open_to: Collaboration on AI/ML Projects
 🎯 2024 Goal: Contribute to open-source AI projects
 ⚡ Fun fact: I debug with coffee ☕
 <br clear="right"/>
-```
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!-- Tech Stack with Better Organization -->
