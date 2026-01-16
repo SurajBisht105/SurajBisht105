@@ -1,6 +1,6 @@
 <!-- Header Banner with Enhanced Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Suraj%20Bisht&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20AI%20Engineer%20|%20LLM%20Specialist&descAlignY=50&descSize=16&descColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Suraj%20Bisht&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20AI%20Engineer&descAlignY=50&descSize=16&descColor=fff" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
