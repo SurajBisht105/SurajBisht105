@@ -114,10 +114,10 @@ open_to: Collaboration on AI/ML Projects
 
 <!-- Replace with your ACTUAL repository names -->
 <p align="center">
-  <a href="https://github.com/SurajBisht105/YOUR-REAL-REPO-1">
+  <a href="https://github.com/SurajBisht105/fitness-diet-rag-planner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajBisht105&repo=YOUR-REAL-REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
-  <a href="https://github.com/SurajBisht105/YOUR-REAL-REPO-2">
+  <a href="https://github.com/SurajBisht105/True-Feedback">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajBisht105&repo=YOUR-REAL-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
 </p>
